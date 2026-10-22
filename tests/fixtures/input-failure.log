@@ -1,0 +1,4 @@
+2000-01-01 00:00:00.000 Df UniversalControl[100:abcd] [com.apple.universalcontrol:EVNT] Connected Devices IDS: [ABCD1234]
+2000-01-01 00:00:01.000 Df UniversalControl[100:abcd] [com.apple.universalcontrol:CONN] IDS ABCD1234: Connected
+2000-01-01 00:00:02.000 Df UniversalControl[100:abcd] [com.apple.universalcontrol:CIRC] Excluded the following unavailable devices: [ABCD1234]
+2000-01-01 00:00:02.001 Df UniversalControl[100:abcd] [com.apple.universalcontrol:EVNT] Connected Devices IDS: []
