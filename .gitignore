@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+build/
+dist/
+config.local.json
+*.local.json
+staging/
+*.log
+!tests/fixtures/*.log
